@@ -1,0 +1,87 @@
+[
+    {
+      "recipe_id": "1",
+      "recipe_name": "Vegan Tofu Stir-Fry",
+      "short_description": "A quick and healthy stir-fry made with tofu, vegetables, and a savory sauce.",
+      "ingredients": [
+        ".200g firm tofu",
+        ".1 red bell pepper",
+        ".1 zucchini",
+        ".1 tbsp sesame seeds"
+      ],
+      "preparing_time": "25 minutes",
+      "calories": 300,
+      "image": "src/assets/food-1.png.jpg"
+    },
+    {
+      "recipe_id": "2",
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "Classic Italian spaghetti topped with a rich and savory Bolognese sauce.",
+      "ingredients": [
+        ".200g spaghetti",
+        ".150g ground beef",
+        ".1 tsp oregano",
+        ".1/2 cup red wine"
+      ],
+      "preparing_time": "40 minutes",
+      "calories": 550,
+      "image": "src/assets/food-2.png.jpg"
+    },
+    {
+      "recipe_id": "3",
+      "recipe_name": "Avocado Toast with Egg",
+      "short_description": "A simple yet nutritious breakfast of mashed avocado on toast topped with a poached egg.",
+      "ingredients": [
+        ".2 slices whole wheat bread",
+        ".1 ripe avocado",
+        ".2 ripe avocado",
+        ".Salt and pepper to taste"
+      ],
+      "preparing_time": "10 minutes",
+      "calories": 350,
+      "image": "src/assets/food-3.png.jpg"
+    },
+    {
+      "recipe_id": "4",
+      "recipe_name": "Chicken Caesar Salad",
+      "short_description": "A hearty salad with grilled chicken, romaine lettuce, Parmesan, croutons, and Caesar dressing.",
+      "ingredients": [
+        ".2 chicken breasts",
+        ".4 cups romaine lettuce",
+        ".1 cup croutons",
+        ".Salt and pepper to taste"
+      ],
+      "preparing_time": "20 minutes",
+      "calories": 600,
+      "image": "src/assets/food-4.png.jpg"
+    },
+    {
+      "recipe_id": "5",
+      "recipe_name": "Vegetable Curry",
+      "short_description": "A fragrant curry made with mixed vegetables, coconut milk, and a blend of spices.",
+      "ingredients": [
+        ".1 cup mixed vegetables (carrots, peas, potatoes)",
+        ".1 can coconut milk",
+        ".1 tbsp olive oil",
+        ".1 cup vegetable broth"
+      ],
+      "preparing_time": "30 minutes",
+      "calories": 450,
+      "image": "src/assets/food-5.png.jpg"
+    },
+    {
+      "recipe_id": "6",
+      "recipe_name": "Banana Pancakes",
+      "short_description": "Fluffy pancakes made with ripe bananas for natural sweetness.",
+      "ingredients": [
+        ".1 ripe banana",
+        ".1 cup all-purpose flour",
+        ".1 tbsp sugar",
+        ".Butter for cooking"
+      ],
+      "preparing_time": "15 minutes",
+      "calories": 350,
+      "image": "src/assets/food-6.png.jpg"
+    }
+  ]
+  
